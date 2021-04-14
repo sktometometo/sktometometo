@@ -1,4 +1,4 @@
-### Hi there 👋
+[![sktometometo's stats](https://github-readme-stats.vercel.app/api?username=sktometometo&count_private=true&show_icons=true)](https://github.com/sktometometo)
 
 <!--
 **sktometometo/sktometometo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
