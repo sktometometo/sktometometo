@@ -1,7 +1,8 @@
 Hello! I am Koki Shinjo. Ph.d. student at JSK Laboratory!.
 My research interests are general robotics, human robot interaction, and assist of disabled people with robotics!
 
-[![sktometometo's stats](https://github-readme-stats-ten-omega-58.vercel.app/api?username=sktometometo&count_private=true&show_icons=true)](https://github.com/sktometometo)
+
+[![sktometometo's stats](https://github-readme-stats-ten-omega-58.vercel.app/api?username=sktometometo&show_icons=true)](https://github.com/sktometometo)
 
 <!--
 **sktometometo/sktometometo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
