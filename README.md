@@ -1,8 +1,12 @@
-Hello! I am Koki Shinjo. Ph.d. student at JSK Laboratory!.
-My research interests are general robotics, human robot interaction, and assist of disabled people with robotics!
+Hello! I am Koki Shinjo. Ph.D. student at JSK Laboratory.
+My research topic is Wireless Communication System for Smart Devices, Wearable Devices and Robots.
 
 
 [![sktometometo's stats](https://github-readme-stats-ten-omega-58.vercel.app/api?username=sktometometo&show_icons=true)](https://github.com/sktometometo)
+
+<!--
+This is deployed with https://vercel.com/sktometometo/github-readme-stats
+-->
 
 <!--
 **sktometometo/sktometometo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
