@@ -1,8 +1,6 @@
 Hello! I am Koki Shinjo. Ph.D. student at JSK Laboratory.
+
 My research topic is Wireless Communication System for Smart Devices, Wearable Devices and Robots.
-
-
-[![sktometometo's stats](https://github-readme-stats-ten-omega-58.vercel.app/api?username=sktometometo&show_icons=true)](https://github.com/sktometometo)
 
 <!--
 This is deployed with https://vercel.com/sktometometo/github-readme-stats
